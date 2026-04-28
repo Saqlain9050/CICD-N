@@ -1,20 +1,23 @@
-name: CI/CD Test
+name: Auto CI/CD Practice
 
 on:
   push:
     branches:
-      - main
+      - main   # 🔥 har push pe run hoga
 
 jobs:
-  run-laptop:
-    runs-on: self-hosted
+  run-on-laptop:
+    runs-on: self-hosted  # tumhara laptop
 
     steps:
-      - name: Get code
+      - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Show files
+      - name: Show update time
+        run: echo "New push detected 🚀"
+
+      - name: List files
         run: ls
 
-      - name: Run message
-        run: echo "CI/CD working on laptop 🚀"
+      - name: Run test message
+        run: echo "CI/CD is working on every push ✅"
