@@ -1,27 +1,79 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>My test page</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-  </head>
-  <body>
-    <h1>Mozilla is cool</h1>
-    <img src="images/firefox-icon.png" alt="The Firefox logo: a flaming fox surrounding the Earth.">
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>My Modern Website</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <p>At Mozilla, we’re a global community of</p>
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
 
-    <ul> <!-- changed to list in the tutorial -->
-      <li>technologists</li>
-      <li>thinkers</li>
-      <li>builders</li>
+<body class="bg-gray-100 font-sans">
+
+  <!-- Navbar -->
+  <nav class="bg-black text-white p-4 flex justify-between items-center">
+    <h1 class="text-xl font-bold">MySite</h1>
+    <ul class="flex gap-6">
+      <li class="hover:text-gray-300 cursor-pointer">Home</li>
+      <li class="hover:text-gray-300 cursor-pointer">About</li>
+      <li class="hover:text-gray-300 cursor-pointer">Contact</li>
+    </ul>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="text-center py-20 bg-blue-600 text-white">
+    <h1 class="text-4xl font-bold">Mozilla is cool 🔥</h1>
+    <p class="mt-4 text-lg">A modern frontend design using Tailwind CSS</p>
+    <button class="mt-6 bg-black px-6 py-2 rounded hover:bg-gray-800">
+      Get Started
+    </button>
+  </section>
+
+  <!-- Content Section -->
+  <div class="max-w-4xl mx-auto p-6">
+    
+    <img class="mx-auto w-40 my-6" src="images/firefox-icon.png" alt="Firefox Logo">
+
+    <p class="text-lg text-center">
+      At Mozilla, we’re a global community of:
+    </p>
+
+    <ul class="flex justify-center gap-6 mt-4 text-blue-600 font-semibold">
+      <li>Technologists</li>
+      <li>Thinkers</li>
+      <li>Builders</li>
     </ul>
 
-    <p>working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web. 
-      We believe this act of human collaboration across an open platform is essential to individual growth and our collective future.</p>
+    <p class="mt-6 text-center text-gray-700">
+      Working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web.
+    </p>
 
-    <p>Read the <a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a> 
-      to learn even more about the values and principles that guide the pursuit of our mission.</p>
-  </body>
+    <p class="mt-4 text-center">
+      <a class="text-blue-500 underline" href="https://www.mozilla.org/en-US/about/manifesto/">
+        Read Mozilla Manifesto
+      </a>
+    </p>
+
+  </div>
+
+  <!-- Cards Section -->
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6 p-10">
+    <div class="bg-white p-5 rounded-xl shadow-lg hover:scale-105 transition">
+      🚀 Fast Development
+    </div>
+    <div class="bg-white p-5 rounded-xl shadow-lg hover:scale-105 transition">
+      🎨 Modern UI
+    </div>
+    <div class="bg-white p-5 rounded-xl shadow-lg hover:scale-105 transition">
+      📱 Responsive Design
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="bg-black text-white text-center p-4">
+    © 2026 My Website | Made with ❤️
+  </footer>
+
+</body>
 </html>
-<\!-- CI/CD TEST -->
