@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 5,
+  "agentName": "DESKTOP-EKQSNIK",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus24.actions.githubusercontent.com/9OdnOv6cZEmlPpQmvFKT5qrcYppSYWOrmwtpn6tpnladNEldlh/",
+  "gitHubUrl": "https://github.com/Saqlain9050/CICD-N",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}

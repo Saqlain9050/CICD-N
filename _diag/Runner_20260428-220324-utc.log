@@ -1,0 +1,95 @@
+[2026-04-28 22:03:24Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Bin': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\bin'
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Root': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site'
+[2026-04-28 22:03:24Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.credentials'
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Bin': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\bin'
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Root': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site'
+[2026-04-28 22:03:24Z INFO HostContext] Well known config file 'Runner': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.runner'
+[2026-04-28 22:03:24Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2026-04-28 22:03:24Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19045.
+[2026-04-28 22:03:24Z INFO Listener] Version: 2.334.0
+[2026-04-28 22:03:24Z INFO Listener] Commit: f1995ede5d885c997d13d8eca5467c4ce97fe69c
+[2026-04-28 22:03:24Z INFO Listener] Culture: en-US
+[2026-04-28 22:03:24Z INFO Listener] UI Culture: en-US
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Bin': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\bin'
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Root': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site'
+[2026-04-28 22:03:24Z INFO Listener] Validating directory permissions for: 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site'
+[2026-04-28 22:03:24Z INFO CommandLineParser] Parse
+[2026-04-28 22:03:24Z INFO CommandLineParser] Parsing 1 args
+[2026-04-28 22:03:24Z INFO CommandLineParser] parsing argument
+[2026-04-28 22:03:24Z INFO CommandLineParser] HasArgs: False
+[2026-04-28 22:03:24Z INFO CommandLineParser] Adding Command: remove
+[2026-04-28 22:03:24Z INFO Listener] Arguments parsed
+[2026-04-28 22:03:24Z INFO Runner] ExecuteCommand
+[2026-04-28 22:03:24Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\bin\Runner.Listener.dll
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Bin': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\bin'
+[2026-04-28 22:03:24Z INFO ConfigurationStore] binPath: C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\bin
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Bin': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\bin'
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Root': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site'
+[2026-04-28 22:03:24Z INFO ConfigurationStore] RootFolder: C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Bin': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\bin'
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Root': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site'
+[2026-04-28 22:03:24Z INFO HostContext] Well known config file 'Runner': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.runner'
+[2026-04-28 22:03:24Z INFO ConfigurationStore] ConfigFilePath: C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.runner
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Bin': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\bin'
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Root': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site'
+[2026-04-28 22:03:24Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.runner_migrated'
+[2026-04-28 22:03:24Z INFO ConfigurationStore] MigratedConfigFilePath: C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.runner_migrated
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Bin': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\bin'
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Root': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site'
+[2026-04-28 22:03:24Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.credentials'
+[2026-04-28 22:03:24Z INFO ConfigurationStore] CredFilePath: C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.credentials
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Bin': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\bin'
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Root': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site'
+[2026-04-28 22:03:24Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.credentials_migrated'
+[2026-04-28 22:03:24Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.credentials_migrated
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Bin': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\bin'
+[2026-04-28 22:03:24Z INFO HostContext] Well known directory 'Root': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site'
+[2026-04-28 22:03:24Z INFO HostContext] Well known config file 'Service': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.service'
+[2026-04-28 22:03:24Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.service
+[2026-04-28 22:03:24Z INFO CommandSettings] Flag 'help': 'False'
+[2026-04-28 22:03:24Z INFO CommandSettings] Flag 'version': 'False'
+[2026-04-28 22:03:24Z INFO CommandSettings] Flag 'commit': 'False'
+[2026-04-28 22:03:24Z INFO CommandSettings] Flag 'check': 'False'
+[2026-04-28 22:03:24Z INFO CommandSettings] Command 'configure': 'False'
+[2026-04-28 22:03:24Z INFO CommandSettings] Command 'remove': 'True'
+[2026-04-28 22:03:24Z INFO CommandSettings] Flag 'local': 'False'
+[2026-04-28 22:03:24Z INFO ConfigurationStore] IsServiceConfigured()
+[2026-04-28 22:03:24Z INFO ConfigurationStore] IsServiceConfigured: False
+[2026-04-28 22:03:24Z INFO ConfigurationStore] IsConfigured()
+[2026-04-28 22:03:24Z INFO ConfigurationStore] IsConfigured: True
+[2026-04-28 22:03:24Z INFO ConfigurationStore] HasCredentials()
+[2026-04-28 22:03:24Z INFO ConfigurationStore] stored True
+[2026-04-28 22:03:24Z INFO ConfigurationStore] Read setting file: 397 chars
+[2026-04-28 22:03:24Z INFO CommandSettings] Arg 'token': ''
+[2026-04-28 22:03:24Z INFO CommandSettings] Flag 'unattended': 'False'
+[2026-04-28 22:03:24Z INFO PromptManager] ReadValue
+[2026-04-28 22:03:24Z INFO Terminal] WRITE: Enter runner remove token: 
+[2026-04-28 22:03:24Z INFO Terminal] READ SECRET
+[2026-04-28 22:03:57Z INFO Terminal] Read value: '***'
+[2026-04-28 22:04:00Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (F54D:3F6964:812C05:86282B:69F20B54)
+[2026-04-28 22:04:00Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2026-04-28 22:04:00Z INFO RunnerServer] EstablishVssConnection
+[2026-04-28 22:04:00Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2026-04-28 22:04:00Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2026-04-28 22:04:00Z INFO RunnerServer] EstablishVssConnection
+[2026-04-28 22:04:00Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2026-04-28 22:04:00Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2026-04-28 22:04:00Z INFO RunnerServer] EstablishVssConnection
+[2026-04-28 22:04:00Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2026-04-28 22:04:00Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2026-04-28 22:04:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2026-04-28 22:04:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2026-04-28 22:04:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2026-04-28 22:04:02Z INFO Terminal] WRITE LINE: Does not exist. Skipping Removing runner from the server
+[2026-04-28 22:04:02Z INFO Terminal] WRITE LINE: 
+[2026-04-28 22:04:02Z INFO ConfigurationStore] IsConfigured()
+[2026-04-28 22:04:02Z INFO ConfigurationStore] IsConfigured: True
+[2026-04-28 22:04:02Z INFO ConfigurationStore] HasCredentials()
+[2026-04-28 22:04:02Z INFO ConfigurationStore] stored True
+[2026-04-28 22:04:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\bin'
+[2026-04-28 22:04:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site'
+[2026-04-28 22:04:02Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.credentials_rsaparams'
+[2026-04-28 22:04:02Z INFO RSAEncryptedFileKeyManager] Deleting RSA key parameters file C:\Users\HMS COMPUTER\Desktop\CICD N\beginner-html-site\.credentials_rsaparams
+[2026-04-28 22:04:02Z INFO Terminal] WRITE LINE: 
+[2026-04-28 22:04:02Z INFO Listener] Runner execution has finished with return code 0
