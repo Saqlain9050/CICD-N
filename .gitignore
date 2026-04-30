@@ -1,3 +1,7 @@
 actions-runner/
 *.zip
+HEAD
 node_modules/externals/
+
+node_modules/
+d2817ecbba16c2caf90d85f3d9531e3ac1431aca
